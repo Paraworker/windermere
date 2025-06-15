@@ -1,0 +1,11 @@
+[package]
+name = "windermere"
+version = "0.1.0"
+edition = "2024"
+authors = ["Jiangfeng Huang <paraworker@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Paraworker/windermere"
+description = "Yet another Wayland compositor"
+
+[dependencies]
